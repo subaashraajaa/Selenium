@@ -13,8 +13,5 @@ public class Car {
 	String colour = "Green";
 	
 		;
-	
-	
-	
-	
+		
 }

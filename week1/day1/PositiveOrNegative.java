@@ -17,7 +17,4 @@ public class PositiveOrNegative {
 			System.out.println(" Your number is neither POSITIVE nor NEGATIVE");
 		}
 	}
-	
-	
-
 }

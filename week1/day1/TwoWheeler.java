@@ -7,8 +7,7 @@ public class TwoWheeler {
 	boolean isPunctured = false;
 	String bikeName = "Hornet 2.0" ;
 	double runningKM = 200 ;
-	
-	
+
 public static void main(String[] args) {
 	TwoWheeler tw = new TwoWheeler ();
 	System.out.println(tw.bikeName);
